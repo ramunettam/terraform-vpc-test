@@ -8,7 +8,8 @@ variable "comman_tags" {
     default = {
         Name="expense"
         Terraform="true"
-        Environment="dev"
+        environment="dev"
+    
     }
 }
 
